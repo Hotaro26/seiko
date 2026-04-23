@@ -38,7 +38,7 @@ flutter run
 
 ## Screenshots
 
-### Desktop
+### Tablets
 | | |
 |:---:|:---:|
 | <img width="480" src="https://github.com/user-attachments/assets/54bb5757-4e57-48ee-a309-ab74dac8558f" /> | <img width="480" src="https://github.com/user-attachments/assets/eff05008-20e2-44bd-8438-84104677fe61" /> |
