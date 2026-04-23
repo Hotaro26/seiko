@@ -36,5 +36,16 @@ flutter run
 - **License:** MIT / Apache 2.0
 - **Status:** `OPERATIONAL // DATA_SECURED`
 
+## Screenshots
+
+### Desktop
+| | |
+|:---:|:---:|
+| <img width="480" src="https://github.com/user-attachments/assets/54bb5757-4e57-48ee-a309-ab74dac8558f" /> | <img width="480" src="https://github.com/user-attachments/assets/eff05008-20e2-44bd-8438-84104677fe61" /> |
+
+### Mobile
+| | | |
+|:---:|:---:|:---:|
+| <img width="220" src="https://github.com/user-attachments/assets/7a3ededa-3527-4a09-964b-e96a88f91a2b" /> | <img width="220" src="https://github.com/user-attachments/assets/63c47496-780f-40a3-bb7a-c8c67cf721b9" /> |  |
 ---
 *Built with precision.*
